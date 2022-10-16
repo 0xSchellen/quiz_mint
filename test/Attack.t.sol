@@ -2,7 +2,7 @@
 pragma solidity ^0.8.15;
 
 import {Test} from "forge-std/Test.sol";
-import {console} from "forge-std/console.sol";
+//import {console} from "forge-std/console.sol";
 
 import {TokenERC721} from "../src/TokenERC721.sol";
 import "openzeppelin-contracts/token/ERC721/IERC721Receiver.sol";

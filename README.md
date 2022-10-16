@@ -20,6 +20,8 @@ https://book.getfoundry.sh/getting-started/installation.
 
 ### 1 - Clone the github repo to your local machine:
 
+Go to your code development directory.
+
 git clone https://github.com/0xSchellen/quiz_mint.git
 
 cd quiz_mint
