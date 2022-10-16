@@ -41,6 +41,22 @@ forge init --force
 forge install https://github.com/OpenZeppelin/openzeppelin-contracts.git
 
 
+===============
+
+On you local machine clone this repository:
+git clone https://github.com/0xSchellen/quiz_mint.git
+cd quiz_mint
+
+forge clean
+
+git init
+git branch -m main
+git add .
+git commit -m "initial"
+
+
+
+
 
 
 
