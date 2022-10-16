@@ -1,0 +1,11 @@
+
+forge init
+forge install @openzeppelin/openzeppelin-contracts
+
+Criar arquivo remappings.txt
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+
+
+// openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+// https://twitter.com/RareSkills_io/status/1580574243766800384
