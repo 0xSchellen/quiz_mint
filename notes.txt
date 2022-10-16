@@ -54,7 +54,8 @@ git branch -m main
 git add .
 git commit -m "initial"
 
-
+forge init --force
+forge install https://github.com/OpenZeppelin/openzeppelin-contracts.git
 
 
 
