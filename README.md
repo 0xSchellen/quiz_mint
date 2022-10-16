@@ -2,7 +2,7 @@
 
 ## Based On :
 
-Original question posted by from: Jeffrey Scholz at @Jeyffre / @RareSkills at @RareSkills_io.
+Original question posted on CT by Jeffrey Scholz at @Jeyffre / @RareSkills at @RareSkills_io.
 
 https://twitter.com/RareSkills_io/status/1580574243766800384.
 
