@@ -12,10 +12,35 @@ https://twitter.com/prady_v/status/1580583891072843778
 
 The tests are made with foundry.
 
-Instructions
+https://book.getfoundry.sh/getting-started/installation
 
-1 - Clone the github repo to your local machine
-2 - Run forge install
+
+# Installing Instructions
+
+
+1 - Clone the github repo to your local machine:
+
+git clone https://github.com/0xSchellen/quiz_mint.git
+cd quiz_mint
+
+
+2 - Initialize the git repository 
+
+forge clean
+
+git init
+git branch -m main
+git add .
+git commit -m "initial"
+
+3 - Initialize forge
+
+forge init --force
+forge install https://github.com/OpenZeppelin/openzeppelin-contracts.git
+
+4 - Run the attack test 
+
+forge test Attack.t.sol
 
 The original posters are credited within the code.
 
