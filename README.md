@@ -20,13 +20,15 @@ forge test -vvvv
 
 See the results!
 
-## The tests are made with foundry.
 
-to install foundry see the foundry book:
+## The tests are made with foundry/forge.
+
+To install foundry see the foundry book:
 
 https://book.getfoundry.sh/getting-started/installation.
 
 ## Credits :
+
 
 Original question posted on CT by Jeffrey Scholz at @Jeyffre / @RareSkills at @RareSkills_io.
 
