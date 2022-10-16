@@ -22,26 +22,17 @@ https://book.getfoundry.sh/getting-started/installation.
 
 Go to your code development directory.
 
+```
 git clone https://github.com/0xSchellen/quiz_mint.git
 
 cd quiz_mint
+```
 
+### 2 - Run the attack test 
 
-### 2 - Update the libraries use by the solidity programs
-
-forge update
-
-git init
-git branch -m main
-git add .
-git commit -m "initial"
-
-### 3 - Run the attack test 
-
-´´´
+```
 forge test
-´´´
-
+```
 
 The original posters are credited within the code.
 
