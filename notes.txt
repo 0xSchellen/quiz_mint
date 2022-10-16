@@ -9,3 +9,40 @@ openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
 
 // openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
 // https://twitter.com/RareSkills_io/status/1580574243766800384
+
+
+forge init
+forge install @openzeppelin/openzeppelin-contracts
+
+Criar arquivo remappings.txt
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+
+
+// openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+// https://twitter.com/RareSkills_io/status/1580574243766800384
+
+
+forge init
+forge clean
+
+git add .
+git commit -m "initial"
+
+
+forge clean
+
+git init
+git branch -m main
+git add .
+git commit -m "initial"
+
+forge init --force
+forge install https://github.com/OpenZeppelin/openzeppelin-contracts.git
+
+
+
+
+
+
+
