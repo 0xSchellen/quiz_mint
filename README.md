@@ -1,14 +1,14 @@
-# This repo contains proposed code to solve a Solidity security challenge 
+# This repo contains proposed code to solve a Solidity security challenge - quiz_mint
 
 Based On :
 
-Original question posted by from: Jeffrey Sacks - Rare Skills
+Original question posted by from: Jeffrey Scholz at @Jeyffre / @RareSkills at @RareSkills_io
+
 https://twitter.com/RareSkills_io/status/1580574243766800384
 
-Inspired on the response posted by prady.eth
-https://twitter.com/prady_v/status/1580583891072843778
+Inspired on the response posted by prady.eth at @prady_v
 
-Some short snippet codes are best tested with Remix
+https://twitter.com/prady_v/status/1580583891072843778
 
 The tests are made with foundry.
 
