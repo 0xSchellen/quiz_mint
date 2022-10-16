@@ -4,6 +4,9 @@ pragma solidity ^0.8.15;
 import { TokenERC721 } from "../src/TokenERC721.sol";
 import "openzeppelin-contracts/token/ERC721/IERC721Receiver.sol";
 
+// OP https://twitter.com/RareSkills_io/status/1580574243766800384
+// OP https://twitter.com/prady_v/status/1580583891072843778
+
 contract Attack is IERC721Receiver {
     TokenERC721 public token;
 
