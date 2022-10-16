@@ -10,7 +10,11 @@ Inspired on the response posted by prady.eth at @prady_v.
 
 https://twitter.com/prady_v/status/1580583891072843778.
 
-The tests are made with foundry.
+The OPs are also credited within the code.
+
+## The tests are made with foundry.
+
+to install foundry see the foundry book:
 
 https://book.getfoundry.sh/getting-started/installation.
 
@@ -31,10 +35,14 @@ cd quiz_mint
 ### 2 - Run the attack test 
 
 ```
-forge test
+forge test -vvvv
 ```
 
-The original posters are credited within the code.
+See the results!
+
+
+
+
 
 This is a work in progress. Contributions are welcome!
 
