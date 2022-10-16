@@ -1,18 +1,18 @@
 # This repo contains proposed code to solve a Solidity security challenge - quiz_mint
 
-Based On :
+## Based On :
 
-Original question posted by from: Jeffrey Scholz at @Jeyffre / @RareSkills at @RareSkills_io
+Original question posted by from: Jeffrey Scholz at @Jeyffre / @RareSkills at @RareSkills_io.
 
-https://twitter.com/RareSkills_io/status/1580574243766800384
+https://twitter.com/RareSkills_io/status/1580574243766800384.
 
-Inspired on the response posted by prady.eth at @prady_v
+Inspired on the response posted by prady.eth at @prady_v.
 
-https://twitter.com/prady_v/status/1580583891072843778
+https://twitter.com/prady_v/status/1580583891072843778.
 
 The tests are made with foundry.
 
-https://book.getfoundry.sh/getting-started/installation
+https://book.getfoundry.sh/getting-started/installation.
 
 
 ## Installing Instructions
@@ -21,12 +21,13 @@ https://book.getfoundry.sh/getting-started/installation
 ### 1 - Clone the github repo to your local machine:
 
 git clone https://github.com/0xSchellen/quiz_mint.git
+
 cd quiz_mint
 
 
-### 2 - Initialize the git repository 
+### 2 - Update the libraries use by the solidity programs
 
-forge clean
+forge update
 
 git init
 git branch -m main
