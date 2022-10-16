@@ -29,20 +29,8 @@ contract TestAttack is Test {
             attack.withdraw(address(attack), address(hacker), i );
         }
 
-       assertEq(attack.getTokenBalanceOf(hacker), 10); 
+       assertEq(getTokenTotalSupply(), 10); 
        assertEq(attack.getTokenBalanceOf(hacker), 10); 
 
-        // console.log(token.balanceOf(hacker));          
-        // console.log(token.totalSupply()); 
-        // console.log(token.amountMinted(hacker));  
     }
 }
-
-    // function mint() external {
-    //     require(amountMinted[msg.sender] != 1, "max 1 NFT");
-    //     require(totalSupply < 10, "maximum supply");
-
-    //     totalSupply++;
-    //     _safeMint(msg.sender, totalSupply);
-    //     amountMinted[msg.sender] = 1;
-    // }

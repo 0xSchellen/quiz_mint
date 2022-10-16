@@ -36,6 +36,10 @@ contract Attack is IERC721Receiver {
         return token.balanceOf(addr);
     }
 
+    function getTokenTotalSupply() public view returns (uint256 supply){
+        return token.totalSupply();
+    }
+
     function getownerOf(uint256 tokenId) public view returns (address owner) {
         return token.ownerOf(tokenId);
     }
