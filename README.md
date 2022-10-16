@@ -18,6 +18,7 @@ cd quiz_mint
 forge test -vvvv
 ```
 
+The system will install the dependencies and run the test on the file Attack.t.sol
 
  See the results!
 
