@@ -36,15 +36,11 @@ git branch -m main
 git add .
 git commit -m "initial"
 
-### 3 - Initialize forge
+### 3 - Run the attack test 
 
-forge init --force
-forge install https://github.com/OpenZeppelin/openzeppelin-contracts.git
-
-### 4 - Run the attack test 
-
-forge test Attack.t.sol
-
+´´´
+forge test
+´´´
 
 
 The original posters are credited within the code.
