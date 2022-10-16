@@ -2,9 +2,6 @@
 cache/
 out/
 
-# library files
-# lib/
-
 # Ignores development broadcast logs
 !/broadcast
 /broadcast/*/31337/
@@ -12,6 +9,3 @@ out/
 
 # Dotenv file
 .env
-
-# Text file
-# notes.txt
