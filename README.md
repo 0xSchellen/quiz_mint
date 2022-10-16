@@ -18,8 +18,8 @@ cd quiz_mint
 forge test -vvvv
 ```
 
-See the results!
 
+ See the results!
 
 ## The tests are made with foundry/forge.
 
@@ -40,16 +40,4 @@ https://twitter.com/prady_v/status/1580583891072843778.
 
 The OPs are also credited within the code.
 
-
-
-
-
-
-
-
-
-
-
-This is a work in progress. Contributions are welcome!
-
-Enjoy !
+Enjoy!
